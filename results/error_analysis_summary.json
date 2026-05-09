@@ -1,0 +1,27 @@
+{
+  "total_test_samples": 3137,
+  "total_errors": 462,
+  "error_rate": 0.1473,
+  "error_types": {
+    "Negation handling": 240,
+    "Mixed sentiment": 168,
+    "Other / ambiguous": 146,
+    "Slang / informal": 46,
+    "Sarcasm / irony": 31
+  },
+  "confusion_pairs": {
+    "Neutral \u2192 Negative": 105,
+    "Neutral \u2192 Positive": 93,
+    "Positive \u2192 Neutral": 85,
+    "Negative \u2192 Neutral": 68,
+    "Negative \u2192 Positive": 63,
+    "Positive \u2192 Negative": 48
+  },
+  "accuracy_by_mixing_bucket": {
+    "0\u20135%": 1.0,
+    "5\u201310%": 0.7714,
+    "10\u201320%": 0.7789,
+    "20\u201340%": 0.7241,
+    "40%+": 0.6937
+  }
+}

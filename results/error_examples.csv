@@ -1,0 +1,101 @@
+Text,true_label,predicted,error_types
+received my parcel today alhumdulilallah one piece is damaged a hole in it overall quality of product is good in this price,2,1,['Other / ambiguous']
+aik phal bo bo ke sath khobsorat bottle waqt par achay miyaar ki farahmi aur mein iss se mutmaen hon,2,1,"['Slang / informal', 'Mixed sentiment']"
+i got my product and i hope it works good,1,2,['Other / ambiguous']
+i ordered two underwears one in skin color and one in black color but received only skin colored underwear kindly send me the black one which i ordered,1,0,['Mixed sentiment']
+i thought it would work when i open it and operate it to beat coffee,0,1,['Other / ambiguous']
+aslaam o alikum awsome bluetooth quality was good b s delivery thori dair sy hui otherwise product is shown same picture,1,2,['Other / ambiguous']
+subse acha true wireless asal masnoaat,1,2,['Negation handling']
+my amount was rs and they charged rupees extra for what could u please let me know why u charged extra rupees,1,0,['Negation handling']
+i dikhai bhji i not fear,0,2,['Negation handling']
+ye kaafi attractive hai sastay rate m e,1,2,['Other / ambiguous']
+order received but its too hard so not recommended,0,1,"['Negation handling', 'Mixed sentiment']"
+once i bought this type of bag from the local market and used it in past i think the price of this bag should be more lower furthermore the product is good,0,2,['Other / ambiguous']
+the led lights were very cool it was awesome acceptthat their wasn t a manual to operate it because i d don t know why but the remote wasn t working but anyways the lights were pretty good,1,2,"['Negation handling', 'Mixed sentiment']"
+iss ki qeemat bazaar mein rupay hain,0,1,['Negation handling']
+they sent it without the box just in bubble wrap i received this good in twisted and pressed condition,0,2,['Other / ambiguous']
+oil is satisfactory,1,2,['Other / ambiguous']
+installed in suzuki alto turbo rs the official suzuki app sz viewer marks it as fake obd however other obd apps pick it up and show sensor data also cleared codes on ecu,2,0,['Mixed sentiment']
+the quality of the product is good the size of the plate is smaller,1,2,['Other / ambiguous']
+roz mara ki zaroriat ke liye bohat mufeed hai,0,2,['Other / ambiguous']
+alo axhe size bi bri h but ek alo kharab h u can see in the pic,1,0,['Mixed sentiment']
+bohat chota size hy or glow b nai krta night main,1,0,['Negation handling']
+normal quality just average,1,0,['Negation handling']
+mujhe haqeeqi pikng aur muft tarseel ke sath haqeeqi aur miyaar ki masnoaat mili sab se ziyada ahem tha iss ki qeemat deegar naqad khorda faroshon ke muqablay mein kaam tha,2,1,"['Negation handling', 'Slang / informal']"
+jaisay hi meine isse dekha mein iss ka order dena chahta hon aur jo kuch mein ny kya tha iss ka nateeja yeh hai ke yeh mere taraf se bohat bura faisla tha iss waqt ke baad mein ny usay din ke liye koshish ki aur iss ke baad sirf khail hi khelna aur allag kar diya iss ki haalat sirf raddi ki tokri hai agar aap ko yeh order diya hai apne qeemti waqt aur paisa zaya karen ge mein ny fori tor par iss daur ko phainknay ke baad pheink diya jaisa ke iss ke ilawa gharelo dusting kapray bhi nahi ban saka,1,0,"['Negation handling', 'Mixed sentiment']"
+ye waqai mein kaam qeemat mein mil raha hai lakin tarseel ke qeemat kaam honi chaiye,0,1,['Negation handling']
+they look pretty but not bright enough the function of twisting and shortening the wire wors but the more u twist the back comes off overall product is eh for this price i expected better,0,1,"['Negation handling', 'Mixed sentiment']"
+sorry for the late review i was dead but the product was nice,2,1,['Mixed sentiment']
+some had done it on front one don t know how as the pin holes were small,1,0,['Negation handling']
+anyways quality of sunglasses and box r way better than others even in this price,2,1,['Other / ambiguous']
+they are pretty cool and affordable but it s better to use them for glows or shades do not face them towards you because they generate different colors by comparing different light intensities of red green and blue leds that s what they didn t describe you can see in the second image the color is set to orange but if you see directly towards it it is red and green hope you get it i m just using it for table glow so i m fine with it also the quality is not very good so handle it with care,2,1,"['Negation handling', 'Mixed sentiment']"
+packing tooti hui thi aur mayar bi acha nhi tha,2,0,['Negation handling']
+as for as stuff is concerned just okay not more than that,1,0,"['Negation handling', 'Slang / informal']"
+sound is quality build quality is average price should be less,1,0,['Other / ambiguous']
+gandi watch he bilkul nakul dedi he ap jese sellar daraz ko badnam karte he daraz pr bohat achi chize bhi milti he,0,2,"['Negation handling', 'Sarcasm / irony']"
+taaqatwar speakers hamaray ghar theatre ke nizaam kisi bhi size ke gharon ke liye mufeed,0,1,['Other / ambiguous']
+handfree to thek hai lekin bass ni h itni overall theek hai rate bhi cheap hai bht high hai,2,0,['Mixed sentiment']
+stuff koi itna ach nai normal h bs,1,0,"['Negation handling', 'Slang / informal']"
+not so good just ok,1,0,['Negation handling']
+averagely quality,1,0,['Other / ambiguous']
+nyc products,2,1,['Other / ambiguous']
+good experience as the product is as per the order,0,2,['Other / ambiguous']
+just a delivery is little late and that is not matters,2,1,['Negation handling']
+yeh chamra nahi hai lekin yeh aik alla miyaar ki hai yeh mere peeron par achi lagti hai aur mein iss ke sath aasani se chal sakta hon un jooton mein lambi paidal chalna theek hai aur iss se mere peeron ko takleef nahi pahunchti jootay aram da aur pursukoon hain aur yeh jald se chilkay nahi cheenta yeh aik chamakdar hai sirf aik hi kharabi yeh hai ke woh dobarah aasani se matti pakadati hai basorat deegar majmoi tor par yeh jootay bohat achay hotay hain aur mujhe yeh pasand hai jis terhan se woh iss ki qeemat par ghhor karte nazar atay hain,2,0,"['Negation handling', 'Slang / informal', 'Mixed sentiment']"
+hamara aakhri yeh hai ke aik khail ps ke purastaar ko khatam kar sakta hai kyunkay kisi nai behtar dystopian khail nahi banaya hai jahan aap iss khat mein huroof se munsalik hotay hain mujhe khail ke astritjk game pallay se mohabbat hai aur kahani khobsorat hai inhen waqai iss par film banana chahiye,2,0,"['Negation handling', 'Mixed sentiment']"
+receive on time but ipod thk s kam ni kr rha otherwise ok,1,0,['Mixed sentiment']
+genuinely it isn t bad but good at this price,2,1,['Mixed sentiment']
+mein umeed karta hon ke tarseel jaldi ajaye taakay mein review likh sakoon,2,1,['Other / ambiguous']
+main ny order size ka kiya tha or ap ny bhaij diya hai,0,1,['Slang / informal']
+excellent product well packed delivery in time nice fragrance,0,2,['Other / ambiguous']
+belt was just ok not as good as the pictures finishing was cheap,1,0,['Negation handling']
+mujhe ye pasand aya lein kaam light may istemaal karna asan nhi,2,0,['Negation handling']
+mein bohat disappoint hua hon picture mein jaisa nazar araha hai ke stand bhi sath hai lakin nahi mila description mein bhi galat likha hai sirf racket ur net mila hai jin ka miyaar bohat bura hai,1,0,"['Negation handling', 'Slang / informal']"
+yeh iss ke kaam karne ki terhan kaam karta hai tamam tareeqon se bilkul kaam hota hai aur yeh bhi dekhnay ke liye kaafi sajeela hai,0,1,"['Negation handling', 'Sarcasm / irony']"
+it s a normal quality not good not so bad average,1,0,['Negation handling']
+ach hi lakin bit color change hai,2,1,['Other / ambiguous']
+average shampoo,1,0,['Other / ambiguous']
+kind of small than what i assumed but good quality and perfect for kids love it,2,1,"['Sarcasm / irony', 'Mixed sentiment']"
+fast delivery,1,2,['Other / ambiguous']
+star sirf light karte ha b s sirf plastic ka star ha mana buat shuak sa mangwaya ta afsus aanda nhi mangwawge daraz sa kuch be an ko chai ha sai bhajte,1,0,['Negation handling']
+only moisturise ur skin nothing else,1,0,['Negation handling']
+sound normal hai itny paso mein boht achi he tuch sensor boht acha hai,1,2,['Negation handling']
+awla cheez hai khair thora mild hai lekin naam ke mutabiq mild hi order kia tha,1,0,"['Negation handling', 'Mixed sentiment']"
+the product quality is good satisfied with the product but the handling of the package was not good thankfully i was not any fragile product look at the first picture the box was cracked with packaging also cracked which means it was damaged in transit,2,1,"['Negation handling', 'Mixed sentiment']"
+ye romote shabby condition may mila,1,0,['Other / ambiguous']
+pehli baar mujhe aisi cheeze online mil gayeen iss qeemat mein miyaar dekhnay ke liye sirf herat zada rehna shukriya,1,2,"['Negation handling', 'Slang / informal']"
+daraz iss se sub se achay rate pe bech rha hai,0,2,['Other / ambiguous']
+mujhe ye masnoaat bilkul pasand nhi aya poor mayar,2,0,"['Negation handling', 'Sarcasm / irony']"
+thank u recommend seller best product,0,2,['Other / ambiguous']
+nicer dicer ka istemaal bhalay asan hai lekin iske cutters ki quality se mein itna khush nai hon sharp tou hain lekin mazboot nai lagay aur halkay plastic se bannay hue hain hamesha darrh rehta hai ke shayed toot na jayein,0,2,"['Negation handling', 'Mixed sentiment']"
+araamdeh diapers har maa ko pasand hain,0,2,['Other / ambiguous']
+eay like thay result peshawai pathani bana diya,2,0,['Negation handling']
+delivered on time and a good product also only thing charge life is less due to small cell,2,1,['Other / ambiguous']
+this charger not campatie with smart watch radius of clipper not adjust,2,0,['Negation handling']
+ordered lights both working absolutely perfect length was not meters bit less than that,0,1,"['Negation handling', 'Sarcasm / irony']"
+good price and the product is genuine within expiry date tried this but the cherry flavor is much better than this,1,2,['Mixed sentiment']
+ft nahi hai jaisa likha hua hai,1,0,['Negation handling']
+yha galat rating h ya rating wali chez nai hai,1,0,['Negation handling']
+price is and they sell at,0,2,['Other / ambiguous']
+maine ek mahinay se istemaal ker rha ho yeh balon ko lamba aur ghana kerti hai,2,1,['Negation handling']
+alhamdulillah received my order today sunday th april it s my nd order from this official store may yaha aik baat kehna chahonga k zyada tar logon ko yay pata he nhi hota hay k bass kehte kisko hayn bus product k title may bass likha hoa hay to keh dete hayn bass achi hay review esa dya jaey k buyer ko tasalli ho jaey k jo mujhe chahiye hay wohi mil raha hay to ye gionee handsfree perfect hay bass boosted songs k lye ya phir koi action movie k lye in my opinion agar apko waqai may bass test karni hay to youtube pay search karayn bass test no music or phir yay handsfree test karayn high volume pay idea hojaeyga k waqai may bass hay ya nhi last baat yay k is handsfree ki packaging may sirf aik chota sa plastic bag tha koi box ya safe packaging nhi thi lekin yay koi buri baat nhi hay product itni achi ho to packaging pay compromise ok hay,0,1,"['Negation handling', 'Sarcasm / irony', 'Mixed sentiment']"
+price mentioned is while dmart charged,0,1,['Other / ambiguous']
+size ki waja sy ma ny is seller is order kya tha lekin wo size nahi bhja gya jo btya gye tha description ma taqreeban usi size ka hy jo ma phly seller sy mangwa chuka hn quality is little bit compromised as compare to my kast order from other seller,1,0,"['Negation handling', 'Mixed sentiment']"
+reasonable,1,2,['Negation handling']
+intehai bakwas ye log khud hi reviews likhte han boht bakwas quality,0,1,['Other / ambiguous']
+buhat axhi ha jo pic ma thi us se bi axhi ha,2,1,['Other / ambiguous']
+very nice copy good quality,1,2,['Sarcasm / irony']
+not good quality was just ok i hope it will be better,1,0,['Negation handling']
+but you should also give nut with this,2,1,['Mixed sentiment']
+dellevry late shoes looks good,1,2,['Other / ambiguous']
+bakar awaz kisi kam ki nai thi charges jo batay pahle bad me rupay extra add krliye pata nai konis fee price ke hisab se sahi nai he ka mila is se acha me yahan se market se achi si chek karke mp leleta achi mil jati,0,1,['Negation handling']
+item design bilkul wohi nahi hai jis terhan paish kya gaya ho majmoi tor par achi lagti hai lekin jaib ke ko silna chahiye tha,0,1,"['Negation handling', 'Sarcasm / irony', 'Mixed sentiment']"
+product quality could be better doesn t matter it is in low price or not but built quality is always metter light passing through out of screen bands are very hard its price bracket should not more than to hundreds,0,1,"['Negation handling', 'Mixed sentiment']"
+shioulders nai thi aur quality b achi ny h,0,1,['Negation handling']
+this is my th purchase of this steam vaporiser every day and night the whole family uses it ofcourse we change the mouth piece for every one had one mishap where one of them burnt with a flag and never worked again but look at my confidence in beurer i have bought another one this is pure love for the manufacturer you can hardly find anything in my house which is not a german product from cars to all electrical products it s only germany everywhere,2,1,"['Negation handling', 'Mixed sentiment']"
+color bilkul natural lagta hai mere hair color se sahi se match hua hai aur laganay mein b asan hai lekin mjhe isko lagatay hue bohat dar lagta hai qk spray karne k foran baad yeh bohat ziada heat up krdeta hai bohat hi zada heat mehsoos hoti hai isliye mene isko apply karna chordia hai,0,1,"['Negation handling', 'Sarcasm / irony', 'Mixed sentiment']"
+price ka lehaz se thk hai,2,1,['Other / ambiguous']
+mene denizen ki pants khareedi ur mehsoos kia ke keemat local bazaar se kaam hia,0,2,['Negation handling']
+good product and fast delivery,1,2,['Other / ambiguous']
+may ny note liay hai lki usk auto rotaate aur gysro sensor kaam ny kar raha sai sy,1,0,['Negation handling']
+mein neh iss numeral ka order kya numeral same ki terhan hai jaisa ke yeh shabih mein dekhaya ja raha hai rupay ke tehat yeh money ke saudey ke l aa aik achi aur qeemat hai jis ki sifarish ki jati hai,0,2,['Negation handling']
