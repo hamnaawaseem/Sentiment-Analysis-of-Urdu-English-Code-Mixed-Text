@@ -5,7 +5,7 @@
 
 A comprehensive benchmarking study of sentiment classification models on Urdu-English code-mixed social media text. This project evaluates both classical machine learning and transformer-based approaches to tackle the unique challenges of multilingual sentiment analysis.
 
-## 🎯 Overview
+## Overview
 
 Code-mixing—the phenomenon where speakers blend multiple languages within a single conversation—is prevalent in South Asian social media. This project addresses sentiment analysis for Urdu-English code-mixed text, a challenging NLP task due to:
 
@@ -16,7 +16,7 @@ Code-mixing—the phenomenon where speakers blend multiple languages within a si
 
 We benchmarked 6 different approaches ranging from classical ML to state-of-the-art multilingual transformers on 20,913 code-mixed reviews.
 
-## 🏆 Key Findings
+## Key Findings
 
 ### 1. Classical ML Outperforms Transformers
 - **TF-IDF + Logistic Regression**: 86.47% accuracy
@@ -47,7 +47,7 @@ Error analysis on 462 misclassifications revealed:
 - **Sarcasm/Irony**: 7.8% of errors
 - **Context-Dependent**: 3.9% of errors
 
-## 📊 Dataset
+## Dataset
 
 - **Size**: 20,913 Urdu-English code-mixed reviews
 - **Source**: 
@@ -66,7 +66,7 @@ Error analysis on 462 misclassifications revealed:
 4. Stopword removal (bilingual)
 5. Tokenization with language-aware strategies
 
-## 🤖 Models Evaluated
+## Models Evaluated
 
 ### Classical Machine Learning
 1. **TF-IDF + Logistic Regression** ⭐ *Best Overall*
@@ -78,7 +78,7 @@ Error analysis on 462 misclassifications revealed:
 5. **XLM-RoBERTa** (Cross-lingual RoBERTa)
 6. **MuRIL** (Multilingual Representations for Indian Languages)
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -116,7 +116,7 @@ seaborn>=0.11.0
 nltk>=3.6
 ```
 
-## 🚀 Usage
+## Usage
 
 ### Training Models
 
@@ -165,7 +165,7 @@ sentiment = predictor.predict(text)
 print(f"Sentiment: {sentiment}")  # Output: Mixed/Negative
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ENGLISH_URDU_SENTIMENT_PROJECT/
@@ -202,7 +202,7 @@ ENGLISH_URDU_SENTIMENT_PROJECT/
 └── requirements.txt                       # Python dependencies
 ```
 
-## 📈 Results
+## Results
 
 ### Overall Performance
 
@@ -231,7 +231,7 @@ ENGLISH_URDU_SENTIMENT_PROJECT/
 
 *Visualization showing accuracy degradation as code-mixing intensity increases*
 
-## 🔍 Error Analysis
+## Error Analysis
 
 ### Top Error Categories
 
@@ -277,7 +277,7 @@ We conducted ablation studies removing specific components:
 
 **Key Insight**: Bigram features are most critical for capturing code-mixed sentiment patterns.
 
-## 🔮 Future Work
+## Future Work
 
 ### Short-term Improvements
 - [ ] Implement attention-based negation handling
@@ -297,13 +297,13 @@ We conducted ablation studies removing specific components:
 - Customer feedback classification for bilingual support systems
 - Political sentiment analysis in multilingual contexts
 
-## 👥 Contributors
+## Contributors
 
 - **[Hamna Waseem]** 
 - **[Anosha Aamer]** 
 - **[Hafiza Sobia Asif]** 
 
-## 📚 Citation
+## Citation
 
 If you use this work in your research, please cite:
 
@@ -318,14 +318,14 @@ If you use this work in your research, please cite:
 }
 ```
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset contributors and annotators
 - HuggingFace for pre-trained models
 - Research community working on code-mixed NLP
 - [FAST-National University of Emerging and Computing Sciences]
 
-## 📧 Contact
+## Contact
 
 For questions, collaborations, or issues:
 - **Email**: hamnaa.waseem@gmail.com
@@ -334,6 +334,5 @@ For questions, collaborations, or issues:
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
+**If you find this project useful, please consider giving it a star!**
 
-Last Updated: May 2026
