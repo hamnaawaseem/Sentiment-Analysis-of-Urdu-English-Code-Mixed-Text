@@ -9,7 +9,7 @@ A comprehensive benchmarking study of sentiment classification models on Urdu-En
 
 Code-mixing—the phenomenon where speakers blend multiple languages within a single conversation—is prevalent in South Asian social media. This project addresses sentiment analysis for Urdu-English code-mixed text, a challenging NLP task due to:
 
-- **Script variations**: Roman Urdu, Devanagari, and mixed scripts
+- **Script variations**: Roman Urdu, english, urdu and mixed scripts
 - **Morphological complexity**: Urdu's rich inflectional system
 - **Contextual ambiguity**: Language switches often carry sentiment indicators
 - **Limited resources**: Scarcity of labeled code-mixed datasets
@@ -263,20 +263,6 @@ ENGLISH_URDU_SENTIMENT_PROJECT/
 
 ![Error Type Distribution](results/Images/error_type_distribution.png)
 
-### Ablation Studies
-
-We conducted ablation studies removing specific components:
-
-| Configuration | Accuracy | Δ Accuracy |
-|---------------|----------|------------|
-| Full Model    | 86.47%   | -          |
-| - Bigrams     | 83.12%   | -3.35%     |
-| - Language ID | 84.89%   | -1.58%     |
-| - Emoji Features | 85.23% | -1.24%     |
-| - Stopword Removal | 85.91% | -0.56%   |
-
-**Key Insight**: Bigram features are most critical for capturing code-mixed sentiment patterns.
-
 ## Future Work
 
 ### Short-term Improvements
@@ -299,9 +285,9 @@ We conducted ablation studies removing specific components:
 
 ## Contributors
 
-- **[Hamna Waseem]** 
-- **[Anosha Aamer]** 
-- **[Hafiza Sobia Asif]** 
+- **Hamna Waseem** 
+- **Anosha Aamer** 
+- **Hafiza Sobia Asif** 
 
 ## Citation
 
@@ -317,13 +303,6 @@ If you use this work in your research, please cite:
   url = {https://github.com/hamnaawaseem/urdu-english-sentiment-analysis}
 }
 ```
-
-## Acknowledgments
-
-- Dataset contributors and annotators
-- HuggingFace for pre-trained models
-- Research community working on code-mixed NLP
-- [FAST-National University of Emerging and Computing Sciences]
 
 ## Contact
 
