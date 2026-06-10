@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+emoji
+ftfy
+textblob
+vaderSentiment
+datasets
+json
